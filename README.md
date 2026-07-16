@@ -1,4 +1,4 @@
-### Hi 👋, I'm Anjola
+### Hi 👋, I'm Anjolaoluwa Toriola
 
 **Cybersecurity Analyst — SOC Operations · Detection · Third-Party Risk**
 
