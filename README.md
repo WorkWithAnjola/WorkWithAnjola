@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Anjolaoluwa Toriola
 
-**Cybersecurity Analyst — SOC Operations · Detection · Third-Party Risk**
+**Cybersecurity Analyst | SOC Operations · Detection · Third-Party Risk**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white)
