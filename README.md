@@ -21,7 +21,7 @@ Ran a full thirdparty risk review on a SaaS vendor handling payroll data: securi
 
 ---
 
-### 🔑 Identity Lifecycle (JML) Audit
+### 🔑 JML Access Audit
 Simulated joiner, mover, and leaver access events for a fictional org in Microsoft Entra ID, then audited the results. Caught two realistic gaps most companies miss: an internal transfer that never had its old access revoked, and a departed employee whose account stayed active days after their last day. Findings mapped to NIST SP 800-53 (AC-2), with full evidence and remediation recommendations.
 
 ### 🧰 What I Work With
