@@ -36,8 +36,8 @@ Simulated joiner, mover, and leaver access events for a fictional org in Microso
 
 ### 📇 Contact me
 
-Email: workwithanjy22@email.com
-
+• Email: workwithanjy22@email.com
+• LinkedIn: https://www.linkedin.com/in/anjolaoluwa-toriola-115211423?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=WorkWithAnjola&show_icons=true&theme=default&hide_title=true)
