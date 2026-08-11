@@ -24,6 +24,10 @@ Ran a full thirdparty risk review on a SaaS vendor handling payroll data: securi
 ### 🔑 [JML Access Audit](https://github.com/WorkWithAnjola/jml-access-audit)
 Simulated joiner, mover, and leaver access events for a fictional org in Microsoft Entra ID, then audited the results. Caught two realistic gaps most companies miss: an internal transfer that never had its old access revoked, and a departed employee whose account stayed active days after their last day. Findings mapped to NIST SP 800-53 (AC-2), with full evidence and remediation recommendations.
 
+🎣 **[Phishing Email Forensics](https://github.com/WorkWithAnjola/phishing-email-forensics)**
+Investigated a simulated Business Email Compromise attempt targeting a finance manager, using header analysis and SPF/DKIM/DMARC authentication checks to confirm a spoofed sender and lookalike domain. Full writeup includes IOCs, verdict, and remediation recommendations, including a real DMARC policy gap that let the message through undetected.
+
+
 ### 🧰 What I Work With
 
 **Technical:** Linux administration · SIEM deployment & troubleshooting (Wazuh) · Log analysis · Incident investigation · MITRE ATT&CK · Virtualization (VirtualBox)
