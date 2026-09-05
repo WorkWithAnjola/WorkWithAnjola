@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Anjolaoluwa Toriola
 
-**Cybersecurity Analyst | SOC Operations · Detection · Third-Party Risk**
+**Cybersecurity | IT Support | Security Operations · Detection · Risk**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white)
@@ -40,7 +40,7 @@ Investigated a simulated Business Email Compromise attempt targeting a finance m
 
 ### 📇 Contact me
 
-• Email: workwithanjy22@email.com
+• Email: workwithanjy22@gmail.com
 • LinkedIn: https://www.linkedin.com/in/anjolaoluwa-toriola-115211423?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 ---
 
