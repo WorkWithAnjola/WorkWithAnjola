@@ -36,11 +36,9 @@ Investigated a simulated Business Email Compromise attempt targeting a finance m
 
 ### 🧰 What I Work With
 
-**Technical:** Linux administration · SIEM deployment & troubleshooting (Wazuh) · Log analysis · Incident investigation · MITRE ATT&CK · Virtualization (VirtualBox)
-
-**Risk & Compliance:** Third-party/vendor risk management · SOC 2 report review · Risk scoring · Security questionnaire design · Risk acceptance & remediation planning
-
-**How I work:** I don't just report that something's broken.  I trace it back to why, and I write it up the way I'd want to read it if I were the one making the call.
+* **Detection & Forensics:** Windows Event Logs (EID 4688, 4104), Sigma Rules, PowerShell Threat Hunting, DFIR Triage, Sysmon, MITRE ATT&CK, Wireshark.
+* **Systems & Infrastructure:** Linux administration (Ubuntu Server), Windows 11 Enterprise auditing, Wazuh SIEM, VirtualBox virtualization.
+* **Identity & Governance:** Microsoft Entra ID (Azure AD), NIST SP 800-53, NIST SP 800-30, SOC 2 Type I/II analysis, Vendor Risk Management.
 
 ---
 
