@@ -16,6 +16,12 @@ I investigate, I document, and I don't stop until the root cause makes sense. My
 🛡️ **[Home SOC Lab](https://github.com/WorkWithAnjola/home-soc-lab)**
 Deployed a Wazuh SIEM from the ground up, simulated an SSH bruteforce attack, and caught something most tutorials skip: a real detection failure. Traced it to the root cause, not a rule bug, not a config error, but a monitoring service that hadn't started yet and documented the full investigation with timeline, IOCs, and MITRE ATT&CK mapping.
 
+⚡ **[PowerShell Threat Hunting & Telemetry Engineering](https://github.com/WorkWithAnjola/suspicious-powershell-threat-hunt)**
+Enabled Windows Script Block Logging (EID 4104) via GPO to solve visibility gaps around Base64-obfuscated stagers and memory-resident web cradles. Extracted compiled, de-obfuscated script blocks from raw event logs and engineered automated threat hunt queries alongside vendor-agnostic Sigma rules.
+
+☣️ **[Ransomware Investigation Playbook & Triage Simulation](https://github.com/WorkWithAnjola/ransomware-investigation-playbook)**
+Simulated LockBit 3.0 precursor tradecraft and data encryption workflows aligned with NIST SP 800-61 Rev. 2. Configured Windows process auditing (EID 4688) to capture living-off-the-land recovery inhibition attacks (`vssadmin`), engineered an automated PowerShell incident triage engine, and authored production-ready Sigma detection rules.
+
 🔍 **[Vendor Risk Assessment](https://github.com/WorkWithAnjola/vendor-risk-assessment)**
 Ran a full thirdparty risk review on a SaaS vendor handling payroll data: security questionnaire, SOC 2 report critique, a scored risk register, and a risk acceptance memo with concrete remediation asks, the exact deliverable a GRC team hands to leadership before signing a contract.
 
